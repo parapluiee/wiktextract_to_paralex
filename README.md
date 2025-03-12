@@ -1,6 +1,7 @@
-#### Project translating open-source wiktionary translated to json  into paralex morphological standard.
+#### Project translating open-source Wiktionary data into the Paralex morphological standard.
 
 Wiktext (Tatu Ylonen) : https://github.com/tatuylonen/wiktextract
+
 Paralex (Sacha Beniamine): https://sbeniamine.gitlab.io/paralex/
 
 
@@ -23,4 +24,4 @@ Paralex (Sacha Beniamine): https://sbeniamine.gitlab.io/paralex/
 * marks: oblique, nominative, vocative / singular, plural
 
 
-The paralex standard allows research in paradigm morphology (Paradigm Cell Filling Problem, Paradigm Discovery Problem, statistics, etc) to separate the regularization of data and it's study. High quality paradigm annotations (if available at all) are often buried in diverse datasets, and this standard collects them directly.
+The paralex standard allows research in paradigm morphology (Paradigm Cell Filling Problem, Paradigm Discovery Problem, statistics, etc) to separate the regularization of data and it's study. High quality paradigm annotations (if available at all) are often buried in diverse datasets, and this standard aims to collect them directly and in a machine readable, constraint based format.
