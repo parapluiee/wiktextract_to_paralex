@@ -4,7 +4,7 @@ Wiktext (Tatu Ylonen) : https://github.com/tatuylonen/wiktextract
 Paralex (Sacha Beniamine): https://sbeniamine.gitlab.io/paralex/
 
 
-** Example paradigm: **
+**Example paradigm:**
 
 पावती_ns,पावती,n.s,paːvtiː,पावती
 
@@ -18,9 +18,9 @@ Paralex (Sacha Beniamine): https://sbeniamine.gitlab.io/paralex/
 
 पावती_vpl,पावती,v.pl,paːvtijo,पावतियो
 
-* 6 declensions of pāvtī (पावती, "receipt"), marking: *
+* 6 declensions of pāvtī (पावती, "receipt")
 
-* oblique, nominative, vocative / singular, plural *
+* marks: oblique, nominative, vocative / singular, plural
 
 
 The paralex standard allows research in paradigm morphology (Paradigm Cell Filling Problem, Paradigm Discovery Problem, statistics, etc) to separate the regularization of data and it's study. High quality paradigm annotations (if available at all) are often buried in diverse datasets, and this standard collects them directly.
