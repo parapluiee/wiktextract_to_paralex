@@ -18,6 +18,7 @@ Example paradigm:
 पावती_vpl,पावती,v.pl,paːvtijo,पावतियो
 
 6 declensions of pāvtī (पावती, "receipt"), marking:
-oblique, nominative, vocative : singular, plural
+
+oblique, nominative, vocative / singular, plural
 
 The paralex standard allows research in paradigm morphology (Paradigm Cell Filling Problem, Paradigm Discovery Problem, statistics, etc) to separate the regularization of data and it's study. High quality paradigm annotations (if available at all) often buried in diverse datasets, and this standard collects them directly.
