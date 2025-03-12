@@ -4,11 +4,17 @@ https://github.com/tatuylonen/wiktextract
 https://sbeniamine.gitlab.io/paralex/
 
 Example paradigm:
+
 पावती_ns,पावती,n.s,paːvtiː,पावती
+
 पावती_npl,पावती,n.pl,paːvtijãː,पावतियाँ
+
 पावती_os,पावती,o.s,paːvtiː,पावती
+
 पावती_opl,पावती,o.pl,paːvtijon,पावतियों
+
 पावती_vs,पावती,v.s,paːvtiː,पावती
+
 पावती_vpl,पावती,v.pl,paːvtijo,पावतियो
 
 6 declensions of pāvtī (पावती, "receipt"), marking:
