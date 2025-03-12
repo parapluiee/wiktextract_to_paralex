@@ -1,7 +1,8 @@
-Project translating open-source wiktionary translated to json  into paralex morphological standard
+Project translating open-source wiktionary translated to json  into paralex morphological standard.
 
-https://github.com/tatuylonen/wiktextract
-https://sbeniamine.gitlab.io/paralex/
+Wiktext (Tatu Ylonen) : https://github.com/tatuylonen/wiktextract
+Paralex (Sacha Beniamine): https://sbeniamine.gitlab.io/paralex/
+
 
 Example paradigm:
 
@@ -20,5 +21,6 @@ Example paradigm:
 6 declensions of pāvtī (पावती, "receipt"), marking:
 
 oblique, nominative, vocative / singular, plural
+
 
 The paralex standard allows research in paradigm morphology (Paradigm Cell Filling Problem, Paradigm Discovery Problem, statistics, etc) to separate the regularization of data and it's study. High quality paradigm annotations (if available at all) are often buried in diverse datasets, and this standard collects them directly.
